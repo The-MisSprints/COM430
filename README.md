@@ -4,7 +4,6 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
 * [Credits](#credits)
 * [License](#license)
 
@@ -14,8 +13,6 @@ Traditionally, the Three R’s—reading, writing, and arithmetic—have been co
 # <a name="installation"></a>Installation
 
 # <a name="usage"></a>Usage
-
-# <a name="contributing"></a>Contributing
 
 # <a name="credits"></a>Credits
 * Mark Pate
