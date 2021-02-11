@@ -25,7 +25,7 @@ Traditionally, the Three R’s—reading, writing, and arithmetic—have been co
 -Architecture Diagram\
 ![Architecture](https://user-images.githubusercontent.com/77589392/107674439-f782b580-6c64-11eb-95fc-7159e57eec4a.png)\
 ![application](https://user-images.githubusercontent.com/77589392/107674813-5f390080-6c65-11eb-8c62-c011f758beb8.png)\
-![infrastructure](https://user-images.githubusercontent.com/77589392/107674854-6d871c80-6c65-11eb-9dbb-a4e9ba71a46b.png)\
+![infrastructure](https://user-images.githubusercontent.com/77589392/107674854-6d871c80-6c65-11eb-9dbb-a4e9ba71a46b.png)
 
 # <a name="installation"></a>Installation
 * Install the following required tools prior to installation:
