@@ -1,6 +1,6 @@
-## COM430-Metl Enhancement Project
+# COM430-Metl Enhancement Project
 
-# Table of Contents
+## Table of Contents
 * [Description](#description)
 * [Diagrams](#diagrams)
 * [Installation](#installation)
@@ -8,10 +8,10 @@
 * [Credits](#credits)
 * [License](#license)
 
-# <a name="description"></a>Description
+## <a name="description"></a>Description
 Traditionally, the Three R’s—reading, writing, and arithmetic—have been considered to be the foundation of early learning, and visualization is an important aspect in mastering each of these subjects. The aim of this project is to enhance a whiteboard application currently in use, by providing the visualization necessary for early mathematics. In this enhanced version, educators are provided with a button to swtich between the blank whiteboard background and a graphed background, along with a few commonly used graphing tools. This will save educators valuable time setting up and provide clear environments for students to learn the new concepts at hand. 
 
-# <a name="diagrams"></a>Diagrams
+## <a name="diagrams"></a>Diagrams
 -Use Case Diagram\
 ![useCase](https://user-images.githubusercontent.com/77589392/107673970-788d7d00-6c64-11eb-89d7-48b2730694fe.png)\
 -User Activity Diagram\
@@ -27,7 +27,7 @@ Traditionally, the Three R’s—reading, writing, and arithmetic—have been co
 ![application](https://user-images.githubusercontent.com/77589392/107674813-5f390080-6c65-11eb-8c62-c011f758beb8.png)\
 ![infrastructure](https://user-images.githubusercontent.com/77589392/107674854-6d871c80-6c65-11eb-9dbb-a4e9ba71a46b.png)
 
-# <a name="installation"></a>Installation
+## <a name="installation"></a>Installation
 * Install the following required tools prior to installation:
   * [Java JDK version 8.x](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
   * [Node Package Manager](https://www.npmjs.com/get-npm)
@@ -38,7 +38,7 @@ Traditionally, the Three R’s—reading, writing, and arithmetic—have been co
 ```
 * Some additional configuration will be needed.
 
-# <a name="usage"></a>Usage
+## <a name="usage"></a>Usage
 * To run a local (development) server for this app, use:
 ```
   $ sbt container:start
@@ -48,8 +48,8 @@ Traditionally, the Three R’s—reading, writing, and arithmetic—have been co
   sbt container:stop and sbt container:restart
 ```
 
-# <a name="credits"></a>Credits
+## <a name="credits"></a>Credits
 * Mark Pate
 * Rebecca Walters
 
-# <a name="license"></a>License
+## <a name="license"></a>License
