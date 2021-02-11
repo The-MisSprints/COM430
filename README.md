@@ -32,11 +32,20 @@ Traditionally, the Three R’s—reading, writing, and arithmetic—have been co
   * [Java JDK version 8.x](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
   * [Node Package Manager](https://www.npmjs.com/get-npm)
   * [SBT](https://www.scala-sbt.org/)
-* Clone the repository
+* Clone the repository via command line
 ```
+  cd /Path/to/desired/location
   git clone https://github.com/The-MisSprints/COM430.git
 ```
 * Some additional configuration will be needed.
+```
+  cd Path\to\your\repository
+  set IVY_HOME=\ivyHome
+  cd config
+  copy configuration.sample.xml comfiguration.local.xml
+  cd .. 
+  sbt
+```
 
 ## <a name="usage"></a>Usage
 * To run a local (development) server for this app, use:
