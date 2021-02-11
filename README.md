@@ -33,6 +33,7 @@ Traditionally, the Three R’s—reading, writing, and arithmetic—have been co
   * [Node Package Manager](https://www.npmjs.com/get-npm)
   * [SBT](https://www.scala-sbt.org/)
 * Clone the repository
+> git clone https://github.com/The-MisSprints/COM430.git 
 * Some additional configuration will be needed.
 
 # <a name="usage"></a>Usage
