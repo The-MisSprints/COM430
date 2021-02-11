@@ -2,6 +2,7 @@
 
 # Table of Contents
 * [Description](#description)
+* [Diagrams](#diagrams)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
@@ -9,6 +10,22 @@
 
 # <a name="description"></a>Description
 Traditionally, the Three R’s—reading, writing, and arithmetic—have been considered to be the foundation of early learning, and visualization is an important aspect in mastering each of these subjects. The aim of this project is to enhance a whiteboard application currently in use, by providing the visualization necessary for early mathematics. In this enhanced version, educators are provided with a button to swtich between the blank whiteboard background and a graphed background, along with a few commonly used graphing tools. This will save educators valuable time setting up and provide clear environments for students to learn the new concepts at hand. 
+
+# <a name="diagrams"></a>Diagrams
+-Use Case Diagram\
+![useCase](https://user-images.githubusercontent.com/77589392/107673970-788d7d00-6c64-11eb-89d7-48b2730694fe.png)\
+-User Activity Diagram\
+![userActivityDiagram](https://user-images.githubusercontent.com/77589392/107674077-93f88800-6c64-11eb-9154-c95d855541f3.png)\
+-Activity Diagram\
+![activityDiagram(1)](https://user-images.githubusercontent.com/77589392/107674132-a4106780-6c64-11eb-8b5b-b462210b04a3.png)\
+-Communication Diagram\
+![communicationDiagram](https://user-images.githubusercontent.com/77589392/107674178-b1c5ed00-6c64-11eb-8488-ce718b982822.png)\
+-Context Diagram\
+![ContextDiagram](https://user-images.githubusercontent.com/77589392/107674210-bab6be80-6c64-11eb-8582-6f91c0f3dd6c.png)\
+-Architecture Diagram\
+![Architecture](https://user-images.githubusercontent.com/77589392/107674439-f782b580-6c64-11eb-95fc-7159e57eec4a.png)\
+![application](https://user-images.githubusercontent.com/77589392/107674813-5f390080-6c65-11eb-8c62-c011f758beb8.png)\
+![infrastructure](https://user-images.githubusercontent.com/77589392/107674854-6d871c80-6c65-11eb-9dbb-a4e9ba71a46b.png)\
 
 # <a name="installation"></a>Installation
 * Install the following required tools prior to installation:
